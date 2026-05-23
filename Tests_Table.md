@@ -23,8 +23,8 @@
 | 20  | `mlfqs-load-60`             |      ❌       |    ❌    |      ❌      |
 | 21  | `mlfqs-load-avg`            |      ❌       |    ❌    |      ❌      |
 | 22  | `mlfqs-recent-1`            |      ❌       |    ❌    |      ❌      |
-| 23  | `mlfqs-fair-2`              |      ❌       |    ❌    |      ❌      |
-| 24  | `mlfqs-fair-20`             |      ❌       |    ❌    |      ❌      |
+| 23  | `mlfqs-fair-2`              |      ✅       |    ✅    |      ✅      |
+| 24  | `mlfqs-fair-20`             |      ✅       |    ✅    |      ✅      |
 | 25  | `mlfqs-nice-2`              |      ❌       |    ❌    |      ❌      |
 | 26  | `mlfqs-nice-10`             |      ❌       |    ❌    |      ❌      |
 | 27  | `mlfqs-block`               |      ❌       |    ❌    |      ❌      |
